@@ -1,13 +1,7 @@
 # Data_Science_Prac_Learning
 
-Problem description
+This is done as a part of SFU [Big Data programming Lab assignment](https://sfu-db.github.io/bigdata-cmpt733/), which was instructed by [Prof. Jiannan Wang](https://www.sfu.ca/computing/people/faculty/jiannanwang.html) at Winter 2018. 
 
-[Assignment 1](https://rawgit.com/sfu-db/bigdata-cmpt733/master/Assignments/A1/A1.html)
-
-[Assignment 2](https://rawgit.com/sfu-db/bigdata-cmpt733/master/Assignments/A2/A2.html)
-
-[Assignment 3](https://rawgit.com/sfu-db/bigdata-cmpt733/master/Assignments/A3/A3.html)
-
-[Assignment 4](https://rawgit.com/sfu-db/bigdata-cmpt733/master/Assignments/A4/A4.html)
-
-[Assignment 5](https://rawgit.com/sfu-db/bigdata-cmpt733/master/Assignments/A5/A5-instruction.html)
+* Name of each folder denotes the type of problem it addressing.
+* Each folder contains an html or iPython file describing the problem named Problem Statement which denotes the assignment problem
+* Each folder contains also contains an iPython or python file named solution which denotes the solution I submitted for this problem.
